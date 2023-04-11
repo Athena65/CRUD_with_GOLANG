@@ -1,1 +1,1 @@
-# In terminal type **go run .**
+# In terminal type **_go run ._**
